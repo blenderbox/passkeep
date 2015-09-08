@@ -19,3 +19,5 @@ rails_best_practices_output.html
 Capfile
 config/deploy.rb
 config/environments/production.rb
+
+.idea
