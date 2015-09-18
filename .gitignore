@@ -37,3 +37,7 @@ Capfile
 config/deploy.rb
 config/deploy/
 config/environments/production.rb
+
+
+# IDE files
+.idea
