@@ -20,6 +20,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'uglifier'
 gem 'uuidtools'
+gem 'whenever'
 
 group :development do
   gem 'annotate'
